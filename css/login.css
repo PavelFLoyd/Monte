@@ -1,0 +1,125 @@
+.log{
+	font-size: 75px;
+	color: white;
+	font-family: 'Poppins', sans-serif;
+	white-space: nowrap;
+	font-weight: 600;
+	justify-content: center;
+	align-items: center;
+	display: flex;
+	margin-bottom: 0;
+	margin-top: 79px;
+}
+.into{
+	font-size: 24px;
+	color: white;
+	font-family: 'Poppins', sans-serif;
+	white-space: nowrap;
+	justify-content: center;
+	align-items: center;
+	display: flex;
+	margin-bottom: 0;
+	margin-top: 0;
+}
+input{
+	background-color: black;
+	width: 487px;
+	height: 52px;
+	border: none;
+	color: white;
+	font-family: 'Poppins', sans-serif;
+	font-size: 23px;
+	background: transparent;
+	border-bottom: 2px solid #202020;
+}
+input::placeholder {
+	color: white; 
+	opacity: 0.9;
+}
+input {
+	outline:none;
+}
+
+.input-box img{
+	position: relative;
+	right: 50px;
+	top: 5px;
+    max-width: 100%;
+    max-height: 100%;
+}
+.log-user{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding-top: 75px;
+	flex-wrap: wrap;
+}
+.input-box2{
+	padding-left: 104px;
+}
+.button{
+	justify-content: center;
+	align-items: center;
+	display: flex;
+	padding-top: 65px;
+}
+button{
+    width: 488px;
+	height: 85px;
+	background-color: #326CF9;
+	font-family: 'Poppins', sans-serif;
+	color: white;
+	font-size: 35px;
+	border-radius: 20px;
+	cursor: pointer;
+	transition: 0.3s;
+}
+button:hover{
+	opacity: 0.7;
+	letter-spacing: 2px;
+	transition: 0.3s;
+}
+.intro{
+	opacity: 0.8;
+}
+.buttons-social{
+	padding-top: 46px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+.viewlog{
+	border-color: white;
+	width: 454px;
+	height: 75px;
+}
+.viewlog p{
+	color: white;
+	opacity: 0.8;
+}
+.viewlog img{
+	margin-right: 19px;
+}
+.log2{
+	padding-right: 78px;
+	padding-left: 78px;
+}
+.create{
+	text-decoration: none;
+	color: white;
+	white-space: nowrap;
+	font-family: 'Poppins', sans-serif;
+	font-size: 16px;
+	opacity: 0.8;
+	justify-content: center;
+	align-items: center;
+	display: flex;
+	padding-top: 69px;
+	transition: 0.3s;
+}
+.create:hover{
+	letter-spacing: 1px;
+	opacity: 1;
+	transition: 0.3s;
+}

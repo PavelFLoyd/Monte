@@ -1,0 +1,13 @@
+.bot-sing{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding-top: 80px;
+	flex-wrap: wrap;
+}
+.button{
+	padding-top: 0;
+	padding-left: 143px;
+	position: relative;
+	right: 40px;
+}

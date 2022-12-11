@@ -368,6 +368,15 @@
 	.infomail{
 		font-size: 9px;
 	}
+	input{
+		width: 300px !important;
+	}
+	.viewlog{
+		width: 300px !important;
+	}
+	.input-box2{
+		padding: 0 !important;
+	}
 }
 @media screen and (max-width: 414px){
 	.container{
@@ -701,6 +710,10 @@
 	.block2{
 		padding-bottom: 0px;
 	}
+	.butsin{
+		position: relative !important;
+		right: 68px !important;
+	}
 }
 @media screen and (max-width: 612px){
 	.h226{
@@ -760,5 +773,249 @@
 	}
 	._pf2{
 		font-size: 15px;
+	}
+}
+@media screen and (max-width: 1443px){
+	.input-box img{
+		display: none;
+	}
+}
+@media screen and (max-width: 1206px){
+	.input-box2{
+		padding-right: 103px;
+		padding-top: 25px;
+	}
+}
+@media screen and (max-width: 1374px){
+	.input-box2{
+		padding-right: 103px;
+		padding-top: 25px;
+	}
+}
+@media screen and (max-width: 1733px){
+	.log2{
+		padding-right: 0 !important;
+	}
+	.log3{
+		padding-top: 46px;
+	}
+}
+@media screen and (max-width: 1090px){
+	.log2{
+		padding-left: 0 !important;
+		padding-top: 46px;
+	}
+}
+@media screen and (max-width: 1410px){
+	.butsin{
+		padding-top: 80px !important;
+	}
+	.bot-sing{
+		padding-top: 25px !important;
+	}
+}
+@media screen and (max-width: 1410px){
+	.butsin{
+		position: relative;
+		right: 68px;
+	}
+}
+@media screen and (max-width: 502px){
+	.butsin{
+		overflow: hidden;
+		white-space: nowrap;
+	}
+	.into{
+		font-size: 19px !important;
+	}
+	.bot-sing{
+		padding-top: 0px !important;
+	}
+}
+@media screen and (max-width: 1645px){
+	.card2{
+		padding-right: 0px !important;
+		padding-left: 152px !important;
+	}
+	.card3{
+		padding-top: 123px;
+	}
+}
+@media screen and (max-width: 1147px){
+	.card2{
+		padding-left: 0px !important;
+		padding-top: 123px !important;
+	}
+}
+@media screen and (max-width: 1335px){
+	.choose{
+		font-size: 45px !important;
+	}
+}
+
+@media screen and (max-width: 802px){
+	.choose{
+		font-size: 30px !important;
+	}
+}
+@media screen and (max-width: 545px){
+	.choose{
+		font-size: 20px !important;
+	}
+}
+@media screen and (max-width: 360px){
+	.choose{
+		font-size: 17px !important;
+	}
+}
+@media screen and (max-width: 520px){
+	.card1{
+		width: 300px !important;
+		height: 750px !important;
+	}
+	.perf{
+		font-size: 15px !important;
+	}
+	.collect{
+		font-size: 16px !important;
+		margin-top: 50px !important;
+	}
+	.mon{
+		font-size: 15px !important;
+	}
+	.star{
+		font-size: 35px !important;
+	}
+	.free{
+		font-size: 55px !important;
+	}
+	.upgrade{
+		font-size: 15px !important;
+	}
+	.key{
+		font-size: 20px !important;
+	}
+	.check1 p{
+		font-size: 13px !important;
+	}
+	.startbut{
+		width: 228px !important;
+		height: 70px !important;
+	}
+	.or1{
+		font-size: 15px !important;
+	}
+	.upgrade{
+		font-size: 13px !important;
+	}
+}
+@media screen and (max-width: 1600px){
+	.container-text{
+		margin: 0 300px !important;
+	}
+}
+@media screen and (max-width: 1367px){
+	.container-text{
+		margin: 0 220px !important;
+	}
+	.poldw{
+		width: 1000px !important;
+	}
+}
+@media screen and (max-width: 1021px){
+	.container-text{
+		margin: 0 140px !important;
+	}
+	.poldw{
+		width: 850px !important;
+	}
+	.weex{
+		font-size: 45px !important;
+	}
+	.our-mis{
+		font-size: 15px !important;
+	}
+	.webel{
+		font-size: 20px !important;
+		margin-bottom: 93px !important;
+	}
+}
+@media screen and (max-width: 867px){
+	.container-text{
+		margin: 0 100px !important;
+	}
+	.poldw{
+		width: 600px !important;
+	}
+}
+@media screen and (max-width: 665px){
+	.container-text{
+		margin: 0 50px !important;
+	}
+	.poldw{
+		width: 500px !important;
+	}
+	.weex{
+		font-size: 30px !important;
+	}
+	.our-mis{
+		font-size: 10px !important;
+	}
+	.webel{
+		font-size: 13px !important;
+		margin-bottom: 50px !important;
+	}
+}
+@media screen and (max-width: 433px){
+	.container-text{
+		margin: 0 25px !important;
+	}
+	.weex{
+		font-size: 20px !important;
+	}
+	.our-mis{
+		font-size: 7px !important;
+	}
+	.webel{
+		font-size: 9px !important;
+		margin-bottom: 50px !important;
+	}
+	.poldw{
+		width: 300px !important;
+	}
+	.about-content img{
+		width: 260px !important;
+		height: 70px !important;
+	}
+	.text-about{
+		font-size: 24px !important;
+	}
+}
+@media screen and (max-width: 1027px){
+	.mancard2{
+		padding-left: 428px !important;
+		padding-right: 0px !important;
+	}
+	.mancard3{
+		padding-top: 80px !important;
+		padding-left: 53px !important;
+	}
+}
+@media screen and (max-width: 817px){
+	.mancard2{
+		padding-left: 0px !important;
+	}
+	.mancard3{
+		padding: 0 !important;
+	}
+}
+@media screen and (max-width: 599px){
+	.mancard3{
+		padding-top: 50px !important;
+	}
+}
+@media screen and (max-width: 389px){
+	.mancard2{
+		padding-top: 50px !important;
 	}
 }

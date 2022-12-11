@@ -1,0 +1,126 @@
+.about-content{
+	align-items: center;
+	display: flex;
+	justify-content: center;
+	padding-top: 122px;
+}
+.our-mis{
+	color: #306EF7;
+	font-family: 'Poppins', sans-serif;
+	white-space: nowrap;
+	font-size: 25px;
+	align-items: center;
+	display: flex;
+	justify-content: center;
+	padding-top: 49px;
+	margin-bottom: 0;
+	font-weight: 600;
+}
+.weex{
+	color: white;
+	font-family: 'Poppins', sans-serif;
+	white-space: nowrap;
+	font-size: 75px;
+	align-items: center;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	margin-top: 0;
+	margin-bottom: 0;
+	font-weight: 600;
+}
+.webel{
+	color: white;
+	font-family: 'Poppins', sans-serif;
+	white-space: nowrap;
+	font-size: 30px;
+	align-items: center;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	margin-top: 0;
+	margin-bottom: 186px;
+}
+.container-text{
+	margin: 0 421px;
+}
+.text-about{
+	flex-wrap: wrap;
+	color: white;
+	font-size: 28px;
+	font-family: 'Poppins', sans-serif;
+	font-weight: 400;
+}
+.dwtxt{
+	flex-wrap: wrap;
+	color: white;
+	font-size: 28px;
+	font-family: 'Poppins', sans-serif;
+	font-weight: 600;
+	margin-bottom: 57px;
+}
+.poldw{
+	color: #828282;
+	width: 1252px;
+	opacity: 0.3;
+}
+.ourteam{
+	margin-top: 189px;
+}
+.man-cards{
+	padding-top: 61px;
+	justify-content: center;
+	align-items: center;
+	display: flex;
+	flex-wrap: wrap;
+}
+.jacob{
+	font-weight: 700;
+	font-family: 'Poppins', sans-serif;
+	color: white;
+	white-space: nowrap;
+	font-size: 35px;
+	margin-bottom: 0;
+	margin-top: 0;
+}
+.container-man-cards{
+	margin: 0 422px;
+}
+.mancard1 img{
+	margin-left: 45px;
+	margin-bottom: 17px;
+}
+.ceo{
+	font-family: 'Poppins', sans-serif;
+	color: #7F7F7F;
+	font-size: 19px;
+	white-space: nowrap;
+	margin-top: 0;
+	margin-left: 40px;
+}
+.twitter{
+	color: white;
+	font-size: 20px;
+	font-weight: 500;
+	white-space: nowrap;
+	font-family: 'Poppins', sans-serif;
+	margin-bottom: 0;
+	margin-top: 0;
+	margin-left: 60px;
+	text-decoration: none;
+	margin-top: 21px;
+}
+.twitter img{
+	margin: 0;
+	margin-left: 8px;
+}
+.dan{
+	margin-left: 45px;
+}
+.mancard2{
+	padding-left: 214px;
+	padding-right: 214px;
+}
+.cto{
+	margin-left: 25px;
+}
