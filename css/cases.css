@@ -9,11 +9,45 @@
 	padding-top: 230px;
 }
 .cards-content-container{
-	margin: 0 333px;
+	margin: 0 313px;
 }
 .card-cont1{
 	width: 403px;
 	height: 244px;
 	border: solid white 1px;
 	border-radius: 10px;
+}
+.cards-cont1-container{
+	margin: 0 29px;
+}
+.card-cont1 img{
+	margin-top: 30px;
+}
+.twit-card{
+	color: white;
+	font-family: 'Poppins', sans-serif;
+	font-weight: 600;
+	font-size: 30px;
+	white-space: nowrap;
+	margin-top: 17px;
+	margin-bottom: 11px;
+}
+.body-card{
+	color: #828282;
+	font-size: 23px;
+	white-space: nowrap;
+	font-family: 'Poppins', sans-serif;
+	margin-top: 0px;
+}
+.cards-content-body{
+	display: flex;
+	flex-wrap: wrap;
+	padding-bottom: 188px;
+}
+.card1-soc{
+	margin-left: 23px;
+	margin-right: 23px;
+}
+.card1-socs{
+	padding-top: 23px;
 }
