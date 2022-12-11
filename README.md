@@ -1,1 +1,1 @@
-demo: https://pavelfloyd.github.io/Monte/
+<a href="https://pavelfloyd.github.io/Monte/">DEMO</a>
